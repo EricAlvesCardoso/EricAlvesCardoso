@@ -11,7 +11,7 @@
 ##
 <br>
  <div width=1000>
-   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=ismapereira&show_icons=true&theme=transparent&hide_border=false&title_color=0194DD&icon_color=0194DD&text_color=ffffff">
+   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=EricAlves&show_icons=true&theme=transparent&hide_border=false&title_color=0194DD&icon_color=0194DD&text_color=ffffff">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismapereira&layout=compact&theme=transparent&hide_border=false&title_color=0194DD&text_color=ffffff">
  </div>
 
@@ -33,16 +33,16 @@
 ### Meus contatos:
 
 <div>
- <a href="mailto:ismaelpf15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
- <a href="https://www.instagram.com/_ismapereira/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> 
- <a href="https://www.linkedin.com/in/ismael-pereira-feitosa-ba2aa91a9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
- <a href="https://w.app/ENs5ci"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> 
+ <a href="mailto:Eric.alves.cardoso82@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
+ <a href="https://www.instagram.com/ell_alvez/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> 
+ <a href="https://www.linkedin.com/in/ericalvescardoso/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
+ <a href="https://wa.me/5575988079729"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> 
 </div>
 
 ##
 <div align="center">
  <br><p align="center"><b>Contador de visitas</b></p>
- <img align="center" src="https://profile-counter.glitch.me/ismapereira/count.svg"></p>
+ <img align="center" src="https://profile-counter.glitch.me/ericalvescardoso/count.svg"></p>
 </div>
  
  
