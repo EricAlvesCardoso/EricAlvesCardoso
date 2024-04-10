@@ -27,7 +27,7 @@
 ##
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ismapereira&theme=react-dark&radius=10&color=ffffff&line=0194DD)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EricAlvez&theme=react-dark&radius=10&color=ffffff&line=0194DD)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 ### Meus contatos:
@@ -48,6 +48,3 @@
  
 <img width=1000 src = 'https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050F2C,100:0194DD&section=footer&reversal=false&textBg=false&fontColor=ffffff&animation=twinkling&descAlign=84&descAlignY=86'>
 
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-Nenhum ficheiro selecionado
-Attach files by dragging & dropping, selecting or pasting them.
